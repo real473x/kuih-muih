@@ -5,17 +5,23 @@ A modern, streamlined inventory and sales management system designed specificall
 ## ✨ Showcase
 
 ### Application Preview
-````carousel
-![Main Mode](public/sc/P1.png)
-<!-- slide -->
-![Inventory Entry](public/sc/P2.png)
-<!-- slide -->
-![Sales History](public/sc/P3.png)
-<!-- slide -->
-![Admin Analytics](public/sc/P4.png)
-<!-- slide -->
-![History & Edit Reports](public/sc/P5.png)
-````
+
+<div align="center">
+  <img src="./public/sc/P1.png" alt="Main Dashboard" width="800" />
+  <p><em>Main Dashboard</em></p>
+  
+  <img src="./public/sc/P2.png" alt="Inventory Entry" width="800" />
+  <p><em>Inventory Entry</em></p>
+  
+  <img src="./public/sc/P3.png" alt="Sales Tracking" width="800" />
+  <p><em>Sales Tracking</em></p>
+  
+  <img src="./public/sc/P4.png" alt="Admin Analytics" width="800" />
+  <p><em>Admin Analytics</em></p>
+  
+  <img src="./public/sc/P5.png" alt="Wastage Reports" width="800" />
+  <p><em>Wastage Reports</em></p>
+</div>
 
 ## 🚀 Core Features
 
